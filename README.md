@@ -7,9 +7,9 @@ This program is a simple Go application that prints a greeting message. The gree
 
 1. *Clone the Repository*:
    ```sh
-   git clone https://github.com/Natishkumar02.git
+   git clone https://github.com/Mandysudan.git
 
-2. cd your-repository-name
+2. cd week-4 
 
 3. go run main.go
 
